@@ -1,0 +1,10 @@
+# Каталог tmp
+/tmp/
+# Файлы _old
+*.*_old
+# Файлы _backup
+*.*_backup
+# Файл .DS_store
+.DS_store
+# Файл Thumbs.db
+Thumbs.db
